@@ -1,4 +1,4 @@
-This is My Git Repostory
+This is My Git Repository
 <br>
 Author-Umar Khan
 <!--
