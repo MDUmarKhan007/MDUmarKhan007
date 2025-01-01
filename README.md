@@ -1,6 +1,7 @@
 This is My Git Repository
 <br>
-Author-Umar Khan
+Author-Umar (Khan)
+
 <!--
 **MDUmarKhan007/MDUmarKhan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
